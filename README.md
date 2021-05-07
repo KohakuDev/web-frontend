@@ -1,24 +1,15 @@
-# web-frontend
+# Kohaku - Web Frontend
 
-## Project setup
+## Development Setup
+
+To work on this project, clone this repository and exectue the following command
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+In order to start a development server execute:
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
